@@ -1,0 +1,10 @@
+nav .active {
+  color: #00bcd4;
+  border-bottom: 3px solid #00bcd4;
+  padding-bottom: 3px;
+  transition: all .5s linear;
+  -webkit-transition: all .5s linear;
+  -moz-transition: all .5s linear;
+  -ms-transition: all .5s linear;
+  -o-transition: all .5s linear;
+}

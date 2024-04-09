@@ -1,0 +1,324 @@
+{
+  "carouselLandingPage": [
+    {
+      "id": "1",
+      "image": "https://meds-theme.myshopify.com/cdn/shop/files/slider_ed1600d0-1473-441d-a299-8ccd9aab35a4.jpg?v=1613733092&width=1500",
+      "title": "Medical Safety Gears",
+      "subTitle": "Quality First"
+    },
+    {
+      "id": "2",
+      "image": "https://meds-theme.myshopify.com/cdn/shop/files/slider-2_1.jpg?v=1625129636&width=1500",
+      "title": "For Physician & Medical Professional",
+      "subTitle": "Medical Equipment's"
+    },
+    {
+      "id": "3",
+      "image": "https://meds-theme.myshopify.com/cdn/shop/files/slider-3_1.jpg?v=1625129739&width=1500",
+      "title": "Prevent The Spread Of Disease",
+      "subTitle": "Face Mask"
+    }
+  ],
+  "support": [
+    {
+      "id": "1",
+      "image": "https://meds-theme.myshopify.com/cdn/shop/files/ship-2.png?v=1613729027&width=275",
+      "title": "Free Shipping",
+      "supTitle": "For orders over $50"
+    },
+    {
+      "id": "2",
+      "image": "https://meds-theme.myshopify.com/cdn/shop/files/ship-3.png?v=1613729027&width=275",
+      "title": "Official Discounts",
+      "supTitle": "Save big on next product"
+    },
+    {
+      "id": "3",
+      "image": "https://meds-theme.myshopify.com/cdn/shop/files/ship-1.png?v=1613729027&width=275",
+      "title": "24/7 Helpline",
+      "supTitle": "Care till the end"
+    }
+  ],
+  "difference_home": [
+    {
+      "id": "1",
+      "image": "https://meds-theme.myshopify.com/cdn/shop/files/img-1.jpg?v=1613729010&width=1500",
+      "title": "Accuracy",
+      "desc": "Viverra maecenas accumsan lacus vel facilisis. Vulputate dignissim"
+    },
+    {
+      "id": "2",
+      "image": "https://meds-theme.myshopify.com/cdn/shop/files/img-2_822ecdc8-1861-4ee6-98da-f2462dfbbe7b.jpg?v=1613731077&width=1500",
+      "title": "Complete Protection",
+      "desc": "Massa vitae tortor condimentum lacinia quis vel eros. Elit ut aliquam purus."
+    },
+    {
+      "id": "3",
+      "image": "https://meds-theme.myshopify.com/cdn/shop/files/img-3.jpg?v=1613729011&width=1500",
+      "title": "Prevents Bacteria",
+      "desc": "Mauris sit amet massa vitae tortor condimentum lacinia quis vel."
+    }
+  ],
+  "comfortability": {
+    "left": [
+      {
+        "id": "1",
+        "image": "https://meds-theme.myshopify.com/cdn/shop/files/icon-2.png?v=1613729027&width=1420",
+        "title": "Anti-Pollution",
+        "desc": "Tortor posuere ac ut consequat semper viverra nam libero justo."
+      },
+      {
+        "id": "2",
+        "image": "https://meds-theme.myshopify.com/cdn/shop/files/icon-4.png?v=1613729028&width=1420",
+        "title": "Prevents Tiny Droplets",
+        "desc": "Erat imperdiet sed euismod nisi porta lorem. Justo nec ultrices."
+      }
+    ],
+    "right": [
+      {
+        "id": "1",
+        "image": "https://meds-theme.myshopify.com/cdn/shop/files/icon-3.png?v=1613729028&width=1420",
+        "title": "Filters Out 95%",
+        "desc": "Orci nulla pellentesque dignissim enim sit apien eget mi proin sed."
+      },
+      {
+        "id": "2",
+        "image": "https://meds-theme.myshopify.com/cdn/shop/files/icon-1.png?v=1613729028&width=1420",
+        "title": "Comfortable Breathing",
+        "desc": "Quis lectus nulla at volutpat diam ut venenatis tellussagittis purus"
+      }
+    ]
+  },
+  "new_arrival": [
+    {
+      "id": "1",
+      "image": "https://meds-theme.myshopify.com/cdn/shop/products/shop-12_16bbe985-1408-4b0e-be9c-0f26f74a0956.jpg?v=1590486062&width=360",
+      "title": "Disposable Mask",
+      "desc": "Rs.4.08"
+    },
+    {
+      "id": "2",
+      "image": "https://meds-theme.myshopify.com/cdn/shop/products/shop-26_a44a9728-0f66-4c24-ab95-2aab638769b8.jpg?v=1590486130&width=360",
+      "title": "N99 Face Mask",
+      "desc": "Rs.1.04"
+    },
+    {
+      "id": "3",
+      "image": "https://meds-theme.myshopify.com/cdn/shop/products/shop-13.jpg?v=1590486049&width=360",
+      "title": "N99 Face Mask",
+      "desc": "Rs.1.04"
+    },
+    {
+      "id": "4",
+      "image": "https://meds-theme.myshopify.com/cdn/shop/products/shop-5.jpg?v=1590486114&width=360",
+      "title": "N95 Face Mask",
+      "desc": "Rs.1.28"
+    }
+  ],
+  "footer_links": [
+    { "id": 1, "name": "Home", "link": "/" },
+    { "id": 2, "name": "About", "link": "/about" },
+    { "id": 3, "name": "Collection", "link": "/collection" },
+    { "id": 4, "name": "FaQs", "link": "/faqs" },
+    { "id": 5, "name": "Contact US", "link": "/contact" }
+  ],
+  "Footer_Information": [
+    {
+      "name": "Address : ",
+      "information": "El-oroba Street, Middletown, Egypt"
+    },
+    {
+      "name": "phone : ",
+      "information": "01147998560"
+    },
+    {
+      "name": "Hours : ",
+      "information": "9:00am-8:00 M-F"
+    }
+  ],
+  "about_why_we_are": [
+    {
+      "id": 1,
+      "text": "Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus."
+    },
+    {
+      "id": 2,
+      "text": "Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam"
+    },
+    {
+      "id": 3,
+      "text": "Voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem"
+    },
+    {
+      "id": 4,
+      "text": "Sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia"
+    },
+    {
+      "id": 5,
+      "text": "Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus."
+    }
+  ],
+  "according": [
+    {
+      "id": 1,
+      "heading": "Would I be able to withdraw or alter my request?",
+      "body": "Fusce id blandit blandit finibus eros. Vestibulum eu maximus turpis. Ut enim mas da id scelerisque eu, volutpat id mi. imus turpis. Ut enim massa, malesuad mi. Maecenas in odo lorem.Maecenas in dictum at commodo lorem."
+    },
+    {
+      "id": 2,
+      "heading": "What is your return policy?",
+      "body": "Ut enim mas da id scelerisque eu, volutpat id mi. imus turpis. Ut enim massa, malesuad mi. Maecenas in odo lorem.Maecenas in dictum at commodo lorem. Fusce id blandit blandit finibus eros. Vestibulum eu maximus turpis."
+    },
+    {
+      "id": 3,
+      "heading": "How can i get support?",
+      "body": "At enim massa, malesuad mi. Maecenas in odo lorem.Maecenas in dictum at commodo lorem. Fusce id blandit blandit finibus eros. Vestibulum eu maximus turpis. Ut enim mas da id scelerisque eu, volutpat id mi. imus turpis."
+    },
+    {
+      "id": 4,
+      "heading": "How to redeem my gift card?",
+      "body": "Blandit fusce id blandit finibus eros. Vestibulum eu maximus turpis. Ut enim mas da id scelerisque eu, volutpat id mi. imus turpis. Ut enim massa, malesuad mi. Maecenas in odo lorem.Maecenas in dictum at commodo lorem."
+    },
+    {
+      "id": 5,
+      "heading": "How do I pay for my purchase?",
+      "body": "Vestibulum eu maximus turpis. Fusce id blandit blandit finibus eros. Ut enim mas da id scelerisque eu, volutpat id mi. imus turpis. Ut enim massa, malesuad mi. Maecenas in odo lorem.Maecenas in dictum at commodo lorem"
+    }
+  ],
+  "collection": {
+    "arrival_now": [
+      {
+        "id": "1",
+        "image": "https://meds-theme.myshopify.com/cdn/shop/products/shop-24_55e7aa8f-77f1-43f8-a0ef-cbcc99641f4d.jpg?v=1590486122&width=360",
+        "title": "Velit PPE Kit",
+        "desc": "Rs.1.99"
+      },
+      {
+        "id": "2",
+        "image": "https://meds-theme.myshopify.com/cdn/shop/products/shop-23_7fbba38f-f41b-4ca6-b426-73897db26e4d.jpg?v=1590486094&width=360",
+        "title": "Stain PPE Kit",
+        "desc": "Rs.1.28"
+      },
+      {
+        "id": "3",
+        "image": "https://meds-theme.myshopify.com/cdn/shop/products/shop-6_b9b77d21-9dc9-4d4c-a509-ca327a8aa345.jpg?v=1590486089&width=360",
+        "title": "Stethoscope",
+        "desc": "Rs.4.08"
+      }
+    ],
+    "products": [
+      {
+        "id": "1",
+        "image": "https://meds-theme.myshopify.com/cdn/shop/products/shop-8_40df6fe0-de35-4fb3-9ee2-afe661c40566.jpg?v=1590486010&width=360",
+        "price": 100,
+        "title": "Paper Napkins",
+        "category": "ppe"
+      },
+      {
+        "id": "2",
+        "image": "https://meds-theme.myshopify.com/cdn/shop/products/shop-5.jpg?v=1590486114&width=360",
+        "price": 200,
+        "title": "Flatline PPE Kit ",
+        "category": "ppe"
+      },
+      {
+        "id": "3",
+        "image": "https://meds-theme.myshopify.com/cdn/shop/products/shop-26_a44a9728-0f66-4c24-ab95-2aab638769b8.jpg?v=1590486130&width=360",
+        "price": 200,
+        "title": "Surgical Gloves ",
+        "category": "ppe"
+      },
+      {
+        "id": "4",
+        "image": "https://meds-theme.myshopify.com/cdn/shop/products/shop-25_240496f4-8e96-4cef-a048-56f95e0f37b0.jpg?v=1590486126&width=360",
+        "price": 140,
+        "title": "RX PPE Kit ",
+        "category": "ppe"
+      },
+      {
+        "id": "5",
+        "image": "https://meds-theme.myshopify.com/cdn/shop/products/shop-24_55e7aa8f-77f1-43f8-a0ef-cbcc99641f4d.jpg?v=1590486122&width=533",
+        "price": 120,
+        "title": " Disposable PPE Kit ",
+        "category": "ppe"
+      },
+      {
+        "id": "6",
+        "image": "https://meds-theme.myshopify.com/cdn/shop/products/shop-23_7fbba38f-f41b-4ca6-b426-73897db26e4d.jpg?v=1590486094&width=360",
+        "price": 50,
+        "title": "Stain PPE Kit ",
+        "category": "ppe"
+      },
+      {
+        "id": "7",
+        "image": "https://meds-theme.myshopify.com/cdn/shop/products/shop-13.jpg?v=1590486049&width=360",
+        "price": 20,
+        "title": "N99 Face Mask ",
+        "category": "ppe"
+      },
+      {
+        "id": "8",
+        "image": "https://meds-theme.myshopify.com/cdn/shop/products/shop-16_6c8fc169-6129-40b9-bcb2-7ebb2a7846a4.jpg?v=1590486118&width=360",
+        "price": 40,
+        "title": "Sol Zinc Tablet  ",
+        "category": "medicine"
+      },
+      {
+        "id": "9",
+        "image": "https://meds-theme.myshopify.com/cdn/shop/products/shop-17.jpg?v=1590486053&width=360",
+        "price": 70,
+        "title": "Sol Vitamin D ",
+        "category": "medicine"
+      },
+      {
+        "id": "10",
+        "image": "https://meds-theme.myshopify.com/cdn/shop/products/shop-9_035f7670-ee0c-4ac9-8acb-de0eb1ac35d3.jpg?v=1590486044&width=360",
+        "price": 80,
+        "title": "Sol Vitamin C  ",
+        "category": "medicine"
+      },
+      {
+        "id": "11",
+        "image": "https://meds-theme.myshopify.com/cdn/shop/products/shop-19.jpg?v=1590486031&width=360",
+        "price": 20,
+        "title": "Sol Vitamin E  ",
+        "category": "medicine"
+      },
+      {
+        "id": "12",
+        "image": "https://meds-theme.myshopify.com/cdn/shop/products/shop-15_2f00b172-3f2d-4201-ade2-2f14d1c91ade.jpg?v=1590486066&width=360",
+        "price": 30,
+        "title": "Forehead Thermometer   ",
+        "category": "Devices"
+      },
+      {
+        "id": "13",
+        "image": "https://meds-theme.myshopify.com/cdn/shop/products/shop-11_b1ce8946-cef2-41db-a40e-d5bd87ba611a.jpg?v=1590486085&width=360",
+        "price": 200,
+        "title": "        Stethoscope   ",
+        "category": "Devices"
+      },
+      {
+        "id": "14",
+        "image": "https://meds-theme.myshopify.com/cdn/shop/products/shop-2.jpg?v=1590486098&width=360",
+        "price": 400,
+        "title": "Sol Vitamin E  ",
+        "category": "Devices"
+      },
+      {
+        "id": "15",
+        "image": "https://meds-theme.myshopify.com/cdn/shop/products/shop-7_30add133-29be-46ef-94f2-d17cf7e7059e.jpg?v=1590486071&width=360",
+        "price": 50,
+        "title": "  Ear Thermometer   ",
+        "category": "Devices"
+      },
+      {
+        "id": "16",
+        "image": "https://meds-theme.myshopify.com/cdn/shop/products/shop-14_a6967220-8ca5-4fb8-9c08-90e78250675b.jpg?v=1590486022&width=360",
+        "price": 60,
+        "title": " Digital Thermometer    ",
+        "category": "Devices"
+      }
+    ]
+  }
+}
