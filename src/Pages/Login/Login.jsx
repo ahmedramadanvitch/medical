@@ -44,7 +44,12 @@ export default function Login() {
       .email("email is not valid"),
     password: Yup.string()
       .required("password is required")
-      .matches(/^[A-Z][a-z0-9]{5,10}$/, "password not valid"),
+      .min(5, "too short min is 5")
+      .max(10, "too long max is 10")
+      .matches(
+        /^[A-Z][a-z0-9]{5,10}$/,
+        "password not valid it must start with capital character and only 10"
+      ),
   });
 
   let formik = useFormik({
@@ -103,6 +108,7 @@ export default function Login() {
                   className="w-full pl-2 outline-none border-none"
                   type="password"
                   placeholder="Password"
+                  maxLength={10}
                   id="password"
                   value={formik.values.password}
                   onChange={formik.handleChange}
