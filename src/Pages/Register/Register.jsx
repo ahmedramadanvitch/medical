@@ -46,7 +46,7 @@ export default function Register() {
       .max(10, "too long max is 10")
       .matches(
         /^[A-Z][a-z0-9]{5,10}$/,
-        "password not valid it must start with capital character and only 10"
+        "password not valid it must start with capital character and then any number but only 10"
       ),
     rePassword: Yup.string()
       .required("rePassword is required")
